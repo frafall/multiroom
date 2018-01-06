@@ -1,0 +1,3 @@
+[submodule "infrared/cec-mqtt-bridge"]
+	path = infrared/cec-mqtt-bridge
+	url = https://github.com/frafall/cec-mqtt-bridge.git

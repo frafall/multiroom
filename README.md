@@ -43,7 +43,7 @@ Components:
 
 Configuration:
 --------------
-* [Infrared](infrared.md) configuration to control my  Denon AVS-1907.
+* [Infrared](infrared) configuration to control my Denon AVS-1907 and Getbox II.
 
 Issues:
 -------

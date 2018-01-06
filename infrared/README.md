@@ -28,12 +28,13 @@ Configuration:
   rc_core                20369  1 lirc_dev
   #
   ```
-4. Simple [test.py](infrared/ir/test.py) program, direct your cell phone camera at leds to see blinking
+4. Simple [test.py](etc/test.py) program, direct your cell phone camera at leds to see blinking
 5. Test Lirc configuration:
-  - [lircd.conf](infrared/ir/lircd.conf)
-  - [lircd.conf.d/RC-1047.conf](infrared/ir/lircd.conf.d/RC-1047.conf)
+  - [lircd.conf](etc/lircd.conf)
+  - [lircd.conf.d/RC-1047.conf](etc/lircd.conf.d/RC-1047.conf)
 6. Try to run Lircd:
   ```
-  # lircd -n /storage/ir/lircd.config
+  # lircd -n /storage/infrared/etc/lircd.conf
   # irsend -d /run/lirc/lircd.socket SEND_ONCE Denon_RC-1047 KEY_POWER
   ```
+
