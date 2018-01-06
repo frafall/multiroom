@@ -15,6 +15,8 @@ ex secrets.ini:
    password = sample_notify_password
    topic    = notify/#
 
+TODO:
+Add command line to create the needed file if it does not exist.
 """
 import os
 from ConfigParser import ConfigParser
