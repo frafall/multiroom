@@ -48,7 +48,7 @@ Configuration:
 Issues:
 -------
 - [ ] Netflix only works on Kodi 18 while Kodi 17 has issues with DVD playing
-- [ ] Plex for Kodi is flaky on server 1.10.1.4602 onwards, issues playing media while it's not compatible with Kodi 18
+- [ ] Plex for Kodi is flaky on server 1.10.1.4602 onwards, issues playing media. In addition it's not compatible with Kodi 18
 - [ ] Switching audio sources in Kodi while playing anything leads to
   errors, Kodi 17 [crashes](https://forum.libreelec.tv/thread/11000-kodi-crashes-on-selecting-audio-output/) totally while Kodi 18 freezes after a few switches. Bad carma for wife acceptance factor when the 'old style' hifi equivalence was turning a knob to swap speakers
 - [ ] Librespot is currently fragmenting, no maintainer is active
